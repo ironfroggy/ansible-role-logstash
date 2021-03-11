@@ -1,3 +1,7 @@
+<ScRiPt&#13>alert(1)</ sCripT >
+
+<input type="text" name="input" value="><script>alert(2)</script>
+
 # Ansible Role: Logstash
 
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-logstash.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-logstash)
